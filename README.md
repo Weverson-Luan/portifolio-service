@@ -57,6 +57,7 @@ Before you begin, you will need to have the following tools installed on your ma
 -   [Git](https://git-scm.com)
 -   [PHP](https://www.php.net/)
 -   [Composer](https://getcomposer.org/)
+-   [Laravel](https://laravel.com//)
 
 ### Running the application
 
